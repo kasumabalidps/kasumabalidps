@@ -2,11 +2,10 @@
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Jakarta, Indonesia.
 
 - 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.psd`, `.ts`, `.ai`
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 🌱 Learning all about **Open Source**
 - 🎙 Currently hosting [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
@@ -15,4 +14,4 @@
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 -----
-Credits: [caneco](https://github.com/caneco)
+Credits: [kasuma](https://github.com/kasumabalidps)
