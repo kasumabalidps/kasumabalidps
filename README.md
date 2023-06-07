@@ -1,4 +1,4 @@
-### Hi There [hi-there](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+### Hi There ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 #### I'm a Full-Stack Developer working in Jakarta, Indonesia.
 
