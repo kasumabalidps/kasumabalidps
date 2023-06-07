@@ -5,7 +5,7 @@
 - 🏢 I'm currently working at **Home**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.psd`, `.ts`, `.ai`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **design**, **laravel**, **development**, **game server development**
 - ⚡️ Fun fact: I'm a huge fan of IU (dlwlrma)
 
 -----
