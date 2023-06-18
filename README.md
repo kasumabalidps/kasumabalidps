@@ -7,6 +7,7 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **laravel**, **development**, **game server development**
 - ⚡️ Fun fact: I'm a huge fan of IU (dlwlrma)
+- 🔊 Discord: tjok.nanda (Kasuma#3236)
 
 -----
 Credits: [kasuma](https://github.com/kasumabalidps)
