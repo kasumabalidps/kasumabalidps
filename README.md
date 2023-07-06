@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer working in Jakarta, Indonesia.
 
 - 🏢 I'm currently working at **Home**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.psd`, `.ts`, `.ai`, `.java`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **laravel**, **development**, **game server development**
 - ⚡️ Fun fact: I'm a huge fan of IU (dlwlrma)
