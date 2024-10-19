@@ -6,8 +6,6 @@
 - ⚙️ I use daily: `.js`, `.ts`,`.java`, `.lua`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **laravel**, **development**, **game server development**
-- ⚡️ Fun fact: I'm a huge fan of IU (dlwlrma)
-- 🔊 Discord: nandagen
 
 -----
 Credits: [kasuma](https://github.com/kasumabalidps)
