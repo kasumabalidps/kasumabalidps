@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer working at Home, Bali, Indonesia.
 
 - 🏢 I'm currently working at **Home**
-- ⚙️ I use daily: `.js`, `.php`,`.java`, `.lua`
+- ⚙️ I use daily: `.ts`,`.js`, `.php`,`.java`, `.lua`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **laravel**, **development**, **game server development**
 
