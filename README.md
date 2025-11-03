@@ -1,5 +1,5 @@
 ### Hi there 👋  
-#### I'm **Nando** — Software Developer from Bali, Indonesia  
+#### I'm **Kasuma Nanda** — Software Developer from Bali, Indonesia  
 
 💻 I build efficient, scalable systems for web and game servers.  
 I focus on clean architecture, performance, and developer experience.
