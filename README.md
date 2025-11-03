@@ -1,57 +1,46 @@
-### Hi there! 👋  
-#### I’m **Nando** — Software Developer from Bali, Indonesia  
+### Hi there 👋  
+#### I'm **Nando** — Software Developer from Bali, Indonesia  
 
-
-::contentReference[oaicite:0]{index=0}
-
-
-💻 Passionate about building scalable software and game-server systems.  
-I work with clean code, design and automation.
+💻 I build efficient, scalable systems for web and game servers.  
+I focus on clean architecture, performance, and developer experience.
 
 ---
 
 ### 🧠 About Me  
-- 🏠 Based in **Bali, Indonesia**  
-- 💼 Focused on **Web Development** & **Game-Server Engineering**  
-- ⚙️ Daily tools: `.ts`, `.js`, `.java`, `.lua`  
-- 🌱 Exploring **Open Source** & modern **DevOps** practices  
-- 🎮 Experience with:  
+- 🏠 Working remotely from **Bali, Indonesia**  
+- 💼 Focused on **Web Development** and **Game Server Engineering**  
+- ⚙️ Languages I use daily: `.ts`, `.js`, `.java`, `.lua`  
+- 🌱 Learning more about **Open Source**, **DevOps**, and **Cloud Systems**  
+- 🎮 Experienced in:  
   - Minecraft Plugin Development (Java)  
   - FiveM / GTA V Modding (Lua)  
-  - Custom APIs & Server Systems  
-
-
-::contentReference[oaicite:1]{index=1}
-
+  - Backend API Development (FastAPI, Express)  
 
 ---
 
-### 🛠 Skills & Tools  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)  
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=flat&logo=github&logoColor=white)](https://github.com/your-username)  
-[![Open Source](https://img.shields.io/badge/Open%20Source-Active-34E?)?style=flat&logo=git&logoColor=white](#)  
+### 🛠 Tech Stack  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### 🎯 What I Build  
-- Custom **game server plugins**: for Minecraft (Java) & FiveM/GTA V (Lua)  
-- Full-stack web apps & APIs: backend (FastAPI/Express), frontend (TS/JS)  
-- Server automation, devops tooling and open-source contributions  
-
-
-::contentReference[oaicite:2]{index=2}
-
+### 🚀 What I Do  
+- Develop **custom plugins** for Minecraft & FiveM  
+- Build **web backends** with TypeScript and Python  
+- Integrate APIs and design **efficient server logic**  
+- Collaborate on **open-source projects**  
 
 ---
 
-### 📬 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=website&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-contact-red?style=flat&logo=gmail&logoColor=white)](#)  
+### 📬 Connect  
+[![GitHub](https://img.shields.io/badge/GitHub-Nando-black?style=flat&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](#)
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+---
 
-**Credits:** [kasuma](https://github.com/kasumabalidps)
+> _"Simplicity is the soul of efficiency."_ — Austin Freeman
